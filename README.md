@@ -12,7 +12,7 @@ My main focus is turning repetitive manual processes into scalable and practical
 
 ```text
 Automation     → n8n · Webhooks · Workflow Design
-AI             → OpenAI APIs · AI Agents · LLMs
+AI             → Claude APIs · AI Agents · LLMs
 Integrations   → REST APIs · WhatsApp · CRM · Web Services
 Development    → JavaScript · TypeScript · HTML · CSS
 Databases      → PostgreSQL · Supabase · Google Sheets
