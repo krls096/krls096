@@ -2,94 +2,104 @@
 
 ### Automation Developer | n8n, APIs, AI & WhatsApp Integrations
 
-I build automation systems that solve real business problems through workflow automation, artificial intelligence and API integrations.
+I build automation systems and digital products focused on solving real business problems through workflow automation, artificial intelligence and API integrations.
 
-Currently focused on creating solutions that reduce manual work, improve customer communication and streamline operations for small and medium-sized businesses.
-
----
-
-## 🚀 What I Do
-
-* Workflow Automation with n8n
-* API Integrations
-* AI-Powered Business Solutions
-* WhatsApp Automation
-* Database Design & Management
-* Process Optimization
+My main focus is turning repetitive manual processes into scalable and practical automated systems.
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ What I Work With
 
-**Automation & AI**
-
-* n8n
-* OpenAI APIs
-* AI Agents
-* Workflow Design
-
-**Development**
-
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-
-**Databases**
-
-* PostgreSQL
-* Supabase
-* Google Sheets
-
-**Integrations**
-
-* REST APIs
-* Webhooks
-* WhatsApp APIs
-* CRM Systems
+```text
+Automation     → n8n · Webhooks · Workflow Design
+AI             → OpenAI APIs · AI Agents · LLMs
+Integrations   → REST APIs · WhatsApp · CRM · Web Services
+Development    → JavaScript · TypeScript · HTML · CSS
+Databases      → PostgreSQL · Supabase · Google Sheets
+```
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
-### Automated WhatsApp Ordering System
+### 💧 WhatsApp Order Automation
 
-Designed and deployed an automation system for a water distribution company that manages customer orders directly through WhatsApp.
+A real-world automation system developed for a water distribution company.
 
-Key capabilities:
+The system processes customer orders through WhatsApp, identifies customers, understands their requests and manages the resulting orders automatically.
 
-* Customer identification and validation
-* AI-powered order understanding
-* Order creation, updates and cancellations
-* Automated database management
-* Route and delivery workflow automation
-* Integration with external services and APIs
+**Built with:** `n8n` · `WhatsApp API` · `AI` · `Google Sheets` · `REST APIs`
 
-Results:
-
-* Hundreds of real customer orders processed automatically
-* Reduced manual administrative workload
-* Faster customer response times
-* Improved operational efficiency
+**Focus:** Business Process Automation · AI · WhatsApp · Workflow Automation
 
 ---
 
-## 🌱 Currently Learning
+### 🏠 InmoFlow
 
+A real estate automation platform concept created to present CRM, communication and automation solutions under a custom brand.
+
+The project explores how automation services can be packaged into a modern SaaS-style product for real estate agencies.
+
+**Built with:** `HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Project](https://github.com/krls096/inmoflow)**
+
+---
+
+### 📊 Real Estate Automation Dashboard
+
+An MVP exploring what a CRM-style management interface could look like on top of an automated real estate workflow.
+
+The concept combines **WhatsApp + AI + n8n + CRM** to manage leads, buyers and properties from a centralized interface.
+
+**Built with:** `HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Project](https://github.com/krls096/dashboard)**
+
+---
+
+### 📱 iOS Link Template
+
+A mobile-first link-in-bio template inspired by modern iOS interfaces.
+
+Designed to centralize social and personal links while providing a more immersive and visually focused experience.
+
+**Built with:** `HTML` · `CSS` · `JavaScript`
+
+🔗 **[View Project](https://github.com/krls096/ios-template)**
+
+---
+
+## 🧠 Currently Exploring
+
+* AI-powered business automation
+* CRM & SaaS systems
+* Advanced n8n workflows
+* WhatsApp Business integrations
+* AI agents and LLM applications
+* Scalable backend architectures
 * GoHighLevel
-* SaaS Systems
-* Advanced AI Automation
-* Scalable Architectures
-* Business Process Automation
 
 ---
 
-## 📫 Connect With Me
+## 🎯 My Approach
 
-* GitHub: github.com/krls096
-* LinkedIn: Coming Soon
-* Portfolio: In Progress
+I like building projects from **problem → solution → automation → product**.
+
+Rather than automating a process just for the sake of automation, I focus on understanding the workflow first and then designing a system that reduces manual work and creates measurable value.
 
 ---
 
-> Building automation systems that save time, reduce manual work and create real business value.
+## 📫 Connect
+
+🌐 **Portfolio:** Coming soon
+
+💼 **LinkedIn:** Coming soon
+
+📧 **Email:** Available on request
+
+---
+
+### Let's build something useful.
+
+`Automation` · `AI` · `APIs` · `Software`
