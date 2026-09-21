@@ -92,9 +92,9 @@ Rather than automating a process just for the sake of automation, I focus on und
 
 ## 📫 Connect
 
-🌐 **Portfolio:** 🔗 **[View Project](https://portfolio-krls.vercel.app/)**
+🌐 **Portfolio:** 🔗 **[Visit link](https://portfolio-krls.vercel.app/)**
 
-💼 **LinkedIn:** 🔗 **[View Project](https://www.linkedin.com/in/carlos-cantos-blasco-650023437/)**
+💼 **LinkedIn:** 🔗 **[Visit my profile](https://www.linkedin.com/in/carlos-cantos-blasco-650023437/)**
 
 📧 **Email:** Available on request
 
